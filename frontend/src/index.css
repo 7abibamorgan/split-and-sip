@@ -148,3 +148,11 @@ progress { width: 100%; height: 16px; margin-bottom: 12px; }
 @media (max-width: 600px) {
   main { padding: 16px; }
 }
+
+/* Split & Sip fonts (loaded in index.html) */
+body, button, input, select { font-family: "Quicksand", system-ui, sans-serif; font-weight: 500; }
+.header h1, .page h2 { font-family: "Pacifico", cursive; font-weight: 400; }
+strong, b, button, label { font-weight: 700; }
+
+/* Links inside pages are pink too (not the browser's purple) */
+.page a { color: #d63384; }
