@@ -1,3 +1,4 @@
+// Savings Goals model
 // Split & Sip: Sara's savings goal model
 import mongoose from "mongoose";
 
