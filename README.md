@@ -9,7 +9,7 @@
 | Name | Student ID | Tutorial group | GitHub username |
 |---|---|---|---|
 | Habiba Morgan | 16006242 | T8 | 7abibamorgan |
-| Hana Hatem | 16005973 | T6 | HanaWGhanem |
+| Hana Hatem | 16005973 | T6 | HanaWGhanem / hanahatemm |
 | Farida Khaled | 16006199 | T8 | faridahkhaled |
 | Hana Yahya | 16003660 | T4 | Cherie-Hannah |
 | Sara Nassar | 13005826 | T3 | SaraNassar25 |
